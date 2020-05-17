@@ -1,4 +1,5 @@
 # AZ 900: Azure fundamentals
+
 The course provides a general introduction to Microsofts Azure's Cloud offering.
 
 ## Official Course
@@ -9,7 +10,7 @@ The course provides a general introduction to Microsofts Azure's Cloud offering.
 [AZ-900T0x-MicrosoftAzureFundamentals Lab](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
 
 ## Free Online Classes
-[IT COMM EDX)]([https://it-comm-edx.online/courses/course-v1:Microsoft+AZ-900+2019_T1/about](https://it-comm-edx.online/courses/course-v1:Microsoft+AZ-900+2019_T1/about))
+[IT COMM EDX)](https://it-comm-edx.online/courses/course-v1:Microsoft+AZ-900+2019_T1/about)
 [Azure on Plurasight](https://www.pluralsight.com/partners/microsoft/azure)
 
 ## Books
