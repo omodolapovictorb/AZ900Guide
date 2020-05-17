@@ -9,7 +9,7 @@ The course provides a general introduction to Microsofts Azure's Cloud offering.
 * [AZ-900T0x-MicrosoftAzureFundamentals Lab](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
 
 ## Free Online Classes
-* [IT COMM EDX)](https://it-comm-edx.online/courses/course-v1:Microsoft+AZ-900+2019_T1/about)
+* [IT COMM EDX](https://it-comm-edx.online/courses/course-v1:Microsoft+AZ-900+2019_T1/about)
 * [Azure on Plurasight](https://www.pluralsight.com/partners/microsoft/azure)
 
 ## Books
@@ -32,4 +32,4 @@ The course provides a general introduction to Microsofts Azure's Cloud offering.
 ## Connect with me
 * | _**Omodolapo Victor Babalola**_
 * | [Linkedin](https://www.linkedin.com/in/omodolapovictorb)
-* | [Mail](mailto:victor@xDatalytics.com)
+* | [Mail](mailto:omodolapovictorb@googlemail.com)
