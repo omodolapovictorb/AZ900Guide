@@ -29,7 +29,7 @@ The course provides a general introduction to Microsofts Azure's Cloud offering.
 * [Micosoft Products Documentation](https://docs.microsoft.com/en-us/learn/browse/)
 * [ Azure: Fundamentals (AZ-900) Exam Prep Guide](https://microsoft365pro.co.uk/2019/03/11/azure-fundamentals-az-900-exam-prep-guide/)
 
-## Contributor(s)
-* | _**Omodolapo Victor Babalola**_ | [Linkedin](https://www.linkedin.com/in/omodolapovictorb) | [Mail](mailto:omodolapovictorb@googlemail.com)
+## Contributors
+* _**Omodolapo Victor Babalola**_ | [Linkedin](https://www.linkedin.com/in/omodolapovictorb) | [Mail](mailto:omodolapovictorb@googlemail.com)
 * 
 * 
